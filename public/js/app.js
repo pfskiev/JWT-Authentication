@@ -3,12 +3,7 @@
  */
 
 (function(){
-
-    function MainCtrl ($scope){
-
-
-    }
-
     angular.module('App', [])
-        .controller('MainCtrl', MainCtrl)
+        .constant('URL', 'http://localhost:3000/')
+
 }());

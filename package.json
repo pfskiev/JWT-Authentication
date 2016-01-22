@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/pfskiev/JWT-Authentication#readme",
   "devDependencies": {
+    "Faker": "^0.7.2",
     "cors": "^2.7.1",
-    "express": "^4.13.4",
-    "faker": "^3.0.1"
+    "express": "^4.13.4"
   }
 }
