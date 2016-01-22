@@ -1,0 +1,30 @@
+{
+  "name": "authentication",
+  "version": "1.1.1",
+  "description": "test authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfskiev/JWT-Authentication.git"
+  },
+  "keywords": [
+    "Angular",
+    "JWT",
+    "Express",
+    "Faker"
+  ],
+  "author": "Constantine Podlesny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfskiev/JWT-Authentication/issues"
+  },
+  "homepage": "https://github.com/pfskiev/JWT-Authentication#readme",
+  "devDependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "faker": "^3.0.1"
+  }
+}

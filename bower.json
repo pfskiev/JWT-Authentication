@@ -1,0 +1,28 @@
+{
+  "name": "authentication",
+  "description": "test authentication",
+  "main": "index.js",
+  "authors": [
+    "Constantine Podlesny"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Angular",
+    "JWT",
+    "Express",
+    "Faker"
+  ],
+  "homepage": "https://github.com/pfskiev/JWT-Authentication",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~4.0.0",
+    "angular": "~1.4.9"
+  }
+}
